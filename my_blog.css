@@ -1,0 +1,22 @@
+h1 {
+  color: MediumSeaGreen;
+  font-family: "Trebuchet MS";
+  text-align: center;
+}
+
+p {
+  color: MediumSeaGreen;
+  font-family: "Trebuchet MS";
+  text-align: justify;
+  padding: 10px;
+}
+
+body {
+  margin: 10px;
+  border-color: MediumSeaGreen;
+  border-style: dashed;
+  background-image: simba.gif;
+}
+
+.section {
+}
