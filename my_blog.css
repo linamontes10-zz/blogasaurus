@@ -1,22 +1,35 @@
 h1 {
-  color: MediumSeaGreen;
+  color: DarkBlue;
   font-family: "Trebuchet MS";
   text-align: center;
+  background-color: white;
+  font-size: 200px;
 }
 
 p {
-  color: MediumSeaGreen;
+  color: DarkBlue;
   font-family: "Trebuchet MS";
   text-align: justify;
   padding: 10px;
+  background-color: white;
+  margin: 10px;
+  font-size: 50px;
 }
 
 body {
   margin: 10px;
-  border-color: MediumSeaGreen;
-  border-style: dashed;
-  background-image: simba.gif;
+  background-image: url("simba.gif");
 }
 
 .section {
+}
+
+#link {
+  color: DarkBlue;
+  font-family: "Trebuchet MS";
+  text-align: center;
+  background-color: white;
+  font-size: 50px;
+  padding: 10px;
+  margin: 10px;
 }
